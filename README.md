@@ -1,3 +1,5 @@
 # course-work
-## Work for various courses
-## This is my first change
+## This Repo will store my homework assignments for Coursera
+* Home Work
+* R programming assignments
+* Sandbox to play with Git
